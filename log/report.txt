@@ -1,0 +1,21 @@
+Bouquet Price: 166000
+---------------------------------------------------------------------------------
+Before Sorting:
+	 Field Flower : Camomile (Color=White, Price=2000, Length=25, Date of cutting=29.05.2015, From Field=Field near MTZ)
+	 Field Flower : Cornflower (Color=Blue, Price=4000, Length=20, Date of cutting=28.05.2015, From Field=Field near Urucha)
+	 Homegrown Flower : Rose (Color=Red, Price=5000, Length=25, Date of cutting=27.05.2015, From Supplier =Tanya from Urucha)
+	 Homegrown Flower : Lily (Color=Yellow, Price=25000, Length=8, Date of cutting=24.05.2015, From Supplier =Denis from Drazhnya)
+	 Greenhouse Flower : Rose (Color=White, Price=30000, Length=40, Date of cutting=30.05.2015, From Greenhouse=Greenhouse N8)
+	 Greenhouse Flower : Tulip (Color=Red, Price=20000, Length=16, Date of cutting=29.05.2015, From Greenhouse=Greenhouse N9)
+----------------------------------------------------------------------------
+After Sorting:
+	 Homegrown Flower : Lily (Color=Yellow, Price=25000, Length=8, Date of cutting=24.05.2015, From Supplier =Denis from Drazhnya)
+	 Homegrown Flower : Rose (Color=Red, Price=5000, Length=25, Date of cutting=27.05.2015, From Supplier =Tanya from Urucha)
+	 Field Flower : Cornflower (Color=Blue, Price=4000, Length=20, Date of cutting=28.05.2015, From Field=Field near Urucha)
+	 Field Flower : Camomile (Color=White, Price=2000, Length=25, Date of cutting=29.05.2015, From Field=Field near MTZ)
+	 Greenhouse Flower : Tulip (Color=Red, Price=20000, Length=16, Date of cutting=29.05.2015, From Greenhouse=Greenhouse N9)
+	 Greenhouse Flower : Rose (Color=White, Price=30000, Length=40, Date of cutting=30.05.2015, From Greenhouse=Greenhouse N8)
+----------------------------------------------------------------------------
+List of flowers with the length from 25 to 35 :
+	 Field Flower : Camomile (Color=White, Price=2000, Length=25, Date of cutting=29.05.2015, From Field=Field near MTZ)
+	 Homegrown Flower : Rose (Color=Red, Price=5000, Length=25, Date of cutting=27.05.2015, From Supplier =Tanya from Urucha)
