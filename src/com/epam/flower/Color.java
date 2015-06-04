@@ -2,6 +2,6 @@ package com.epam.flower;
 
 public enum Color {
   
-    Red, Yellow, Green,White,Pink, Blue;
+    RED, YELLOW, GREEN,WHITE,PINK, BLUE;
 }
 
